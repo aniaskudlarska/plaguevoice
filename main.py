@@ -19,7 +19,7 @@ api = tweepy.API(auth)
 
 
 #Create list of plague lines as strings
-file = open("F:\Documents\GitHub\plaguevoice\plaguevoice.txt", "r")
+file = open("D:\Documents\GitHub\plaguevoice\plaguevoice.txt", "r")
 qlist = []
 for line in file:
     qlist.append(line)
