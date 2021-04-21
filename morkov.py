@@ -1,5 +1,5 @@
 import markovify
-
+#TODO: Make this post from the markov'd version of the full script - also get a new script from discord
 #Create list of plague lines as strings
 with open("plaguevoice.txt") as f:
     text = f.read()
